@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Vietnam
+- 🌱 I’m currently learning Flutter framwork
 
 <!--
 **minhan176/minhan176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
